@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "welcome_message": "Welcome to my language app!",
+  "button_ok": "OK",
+  "button_cancel": "Cancel",
+  "select_language": "Select Language",
+  "select_gender": "Select Gender",
+  "farmer_info_male": "He is a farmer, he has %s farms, of which %s have regenerative farming",
+  "farmer_info_female": "She is a farmer, she has %s farms, of which %s have regenerative farming",
+  "page_title": "Language Page",
+  "num_1": "1",
+  "num_2": "2",
+  "num_3": "3",
+  "num_4": "4",
+  "num_5": "5",
+  "num_6": "6",
+  "num_7": "7",
+  "num_8": "8",
+  "num_9": "9",
+  "num_10": "10"
+}
